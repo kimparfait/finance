@@ -7,6 +7,7 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem'devise-bootstrap-views'
 gem 'therubyracer'
+gem 'stock_quote'
 # Use sqlite3 as the database for Active Record
 
 # Use Puma as the app server
